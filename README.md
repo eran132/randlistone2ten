@@ -24,5 +24,5 @@ cd randlistone2ten
 ```
 python randlistone2ten
 ```
-### CentOS 8
+### CentOS (Latest version is 8)
 1. 
