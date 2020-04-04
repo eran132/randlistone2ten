@@ -23,7 +23,7 @@ cd randlistone2ten
 ```
 4. Run:
 ```
-python3 randlistone2ten
+python3 randlistone2ten.py
 ```
 ### CentOS (Latest version is 8)
 1. Make sure you have Python & Git client Installed
@@ -46,5 +46,30 @@ cd randlistone2ten
 ```
 4. Run:
 ```
-python3 randlistone2ten
+python3 randlistone2ten.py
+```
+
+## Running on MacOS:
+1. Make sure you have Python & Git client Installed
+```
+python --version
+git --version
+```
+If not, we'll need to install [**homebrew**](https://gist.github.com/derhuerst/1b15ff4652a867391f03#file-mac-md) first, which is the package manager for MacOS, using ```Terminal``` or other OS X terminal emulator of your choice.
+
+Install Python & Git :
+```
+brew install python git
+```
+2. clone this repository
+```
+git clone https://github.com/eran132/randlistone2ten.git
+```
+3. change directory to dir randlistone2ten
+```
+cd randlistone2ten
+```
+4. Run:
+```
+python3 randlistone2ten.py
 ```
